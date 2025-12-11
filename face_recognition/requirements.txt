@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+opencv-python==4.8.1.78
+numpy<2.0.0,>=1.24.0
+insightface==0.7.3
+Pillow>=10.1.0
+onnxruntime>=1.16.0
+requests>=2.31.0
+
